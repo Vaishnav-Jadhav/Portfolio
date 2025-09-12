@@ -40,15 +40,15 @@ const projects = [
     name: "Galaxy Magic",
     description: "Through the website, I gained valuable insights on how to effectively implement animation libraries into projects. This experience provided me with practical, real-world knowledge and enhanced my technical skills.",
     image: "Projects/Galaxy.png",    
-    github: "https://github.com/Vaishnav-Jadhav",
-    viewMode: "View On Github"
+    github: "https://galaxy-web.vercel.app/",
+    viewMode: "Go Live"
   },
 ];
 
 export function Projects() {
   return (
     <section className="bg-black text-white pb-15 px-4" id="projects">
-      <h2 className="text-6xl sm:text-8xl py-6 md:py-12 lg:py-20 font-normal text-center">Projects</h2>
+      <h2 className="text-6xl sm:text-7xl py-6 md:py-12 lg:py-20 font-normal text-center">Projects</h2>
       
       <div className="max-w-8xl mx-auto lg:mx-[100px] grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10">
         {projects.map((project, index) => (

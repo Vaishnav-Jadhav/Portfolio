@@ -5,4 +5,5 @@ html{
 }
 html::selection{
     background-color: red;
+    color: black;
 }

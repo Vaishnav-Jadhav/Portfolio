@@ -17,7 +17,7 @@ export function Skills() {
   return (
     <div className="min-h-screen text-white bg-[#0b090a] px-6 md:px-12 lg:px-20">
       <div className="container mx-auto flex flex-col items-center justify-center" id="skills">
-        <h1 className="text-center text-6xl sm:text-8xl py-6 md:py-12 lg:py-20">
+        <h1 className="text-center text-6xl sm:text-7xl py-6 md:py-12 lg:py-20">
           Skills..
         </h1>
       </div>

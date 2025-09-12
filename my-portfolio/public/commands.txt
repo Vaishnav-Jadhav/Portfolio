@@ -1,2 +1,4 @@
 tailwindcss
 react-icons
+framer motion
+gsap

@@ -55,6 +55,7 @@ export function Header()
                     <a href="/#about" className="relative text-xl hover:text-red-700">About</a>
                     <a href="/#skills" className="relative text-xl hover:text-red-700">Skills</a>
                     <a href="/#projects" className="relative text-xl hover:text-red-700">Projects</a>
+                    <a href="/#experience" className="relative text-xl hover:text-red-700">Experience</a>
                 </div>
                 {/* contact button */}
                 <div className="hidden md:block">
@@ -77,6 +78,7 @@ export function Header()
                         <a href="#about" className="block text-xl border-b py-2 border-gray-600">About</a>
                         <a href="#skills" className="block text-xl border-b py-2 border-gray-600">Skills</a>
                         <a href="#projects" className="block text-xl border-b py-2 border-gray-600">Projects</a>
+                        <a href="/#experience" className="block text-xl border-b py-2 border-gray-600">Experience</a>
                     </div>
                     <button className="w-full my-2 bg-red-600 text-xl text- py-2 rounded-md">
                         <a href="/#contacts">contact Me</a>
