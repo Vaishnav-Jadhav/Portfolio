@@ -24,7 +24,7 @@ export function Hero() {
       className="bg-black text-white pt-[160px] lg:h-auto py-3 lg:py-[180px] pb-10"
       id="home"
     >
-      <div className="container mx-auto flex flex-col lg:flex-row items-center justify-between px-6 md:px-12 lg:px-0">
+      <div className="container max-w-7xl mx-auto flex flex-col lg:flex-row items-center justify-between px-6 md:px-12 lg:px-0">
         {/* Left content */}
         <motion.div
           className="flex-1 text-center md:text-left"
