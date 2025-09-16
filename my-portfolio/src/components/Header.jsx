@@ -60,7 +60,7 @@ export function Header()
                 {/* contact button */}
                 <div className="hidden md:block">
                     <button className="flex border border-red-600 py-2 px-5 rounded-4xl text-xl bg-red-600 hover:bg-red-700 shadow-2xl cursor-pointer">
-                        <a href="/public/VaishnavJadhav Resume.pdf" download="VaishnavJadhavResume.pdf">Resume</a><span className="py-1 mx-2"><BsCloudDownload/></span>
+                        <a href="/public/VaishnavJadhav Resume.pdf" download="VaishnavJadhav Resume.pdf">Resume</a><span className="py-1 mx-2"><BsCloudDownload/></span>
                     </button>
                 </div>
                 {/* mobile menu icons */}
@@ -84,7 +84,7 @@ export function Header()
                         <a href="/#contacts">contact Me</a>
                     </button>
                     <button className="w-full my-2 bg-red-600 text-xl text- py-2 rounded-md flex justify-center">
-                         <a href="/public/VaishnavJadhav Resume.pdf" download="VaishnavJadhavResume.pdf">Download Resume </a><span className="py-1 mx-2"><BsCloudDownload/></span>
+                         <a href="/public/VaishnavJadhav Resume.pdf" download="VaishnavJadhav Resume.pdf">Download Resume </a><span className="py-1 mx-2"><BsCloudDownload/></span>
                     </button>
                 </nav>
             )}
